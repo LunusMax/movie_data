@@ -29,3 +29,19 @@ Durante o curso, foram abordados os seguintes tópicos:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
    cd nome-do-repo
+   
+2. Instale os pacotes necessários:
+   pip install -r requirements.txt
+
+3. Execute o Jupyter Notebook:
+   jupyter notebook
+
+## 📈 Exemplos de análise
+
+- Boxplots comparando avaliações entre filmes como Toy Story e Jumanji
+- Cálculo de média e mediana das notas
+- Distribuição de frequência das avaliações
+
+## Referência
+Este projeto foi desenvolvido com base no curso da Alura:
+Data Science: análise e visualização de dados

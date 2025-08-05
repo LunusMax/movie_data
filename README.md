@@ -21,7 +21,7 @@ Durante o curso, foram abordados os seguintes tópicos:
 
 ## 📂 Estrutura
 
-- `Imovie_data.ipynb`: notebook principal com as análises realizadas no curso.
+- `movie_data.ipynb`: notebook principal com as análises realizadas no curso.
 
 ## 🚀 Como executar
 
